@@ -1,0 +1,11 @@
+<pragmas>
+<pragma file="diamond.cpp" line="59" pragmaType="unroll" parentfunction="funcD" factor="2" skip_exit_check="0"/>
+<pragma file="diamond.cpp" line="58" pragmaType="pipeline" parentfunction="funcD" off="0" ii="-1" rewind="1" style=""/>
+<pragma file="diamond.cpp" line="24" pragmaType="unroll" parentfunction="funcA" factor="2" skip_exit_check="0"/>
+<pragma file="diamond.cpp" line="23" pragmaType="pipeline" parentfunction="funcA" off="0" ii="-1" rewind="1" style=""/>
+<pragma file="diamond.cpp" line="37" pragmaType="unroll" parentfunction="funcB" factor="2" skip_exit_check="0"/>
+<pragma file="diamond.cpp" line="36" pragmaType="pipeline" parentfunction="funcB" off="0" ii="-1" rewind="1" style=""/>
+<pragma file="diamond.cpp" line="11" pragmaType="dataflow" parentfunction="diamond" disable_start_propagation="0"/>
+<pragma file="diamond.cpp" line="48" pragmaType="unroll" parentfunction="funcC" factor="2" skip_exit_check="0"/>
+<pragma file="diamond.cpp" line="47" pragmaType="pipeline" parentfunction="funcC" off="0" ii="-1" rewind="1" style=""/>
+</pragmas>

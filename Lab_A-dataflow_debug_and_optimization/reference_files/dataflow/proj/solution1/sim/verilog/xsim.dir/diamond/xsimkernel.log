@@ -1,0 +1,7 @@
+Running: xsim.dir/diamond/xsimk -simmode gui -wdb diamond.wdb -simrunnum 0 -socket 38615
+Design successfully loaded
+Design Loading Memory Usage: 28612 KB (Peak: 28612 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 123624 KB (Peak: 167880 KB)
+Simulation CPU Usage: 130 ms
