@@ -5,8 +5,11 @@
     </td>
  </tr>
 </table>
-## NOTES
+
+## NOTES 
+
 This lab is copied from : [Xilinx_lab](https://github.com/Xilinx/Vitis-Tutorials/blob/2022.1/Hardware_Acceleration/Feature_Tutorials/03-dataflow_debug_and_optimization/fifo_sizing_and_deadlocks.md)
+
 Please see the slide for more detail.
 
 # Vitis HLS Analysis and Optimization
